@@ -1,0 +1,1 @@
+message = parse_qs(data)["message"][0]
